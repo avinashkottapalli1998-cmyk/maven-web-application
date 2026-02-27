@@ -103,7 +103,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>icicbank-Snapshot Nexus Repository </name>
+	      <name>icicbank-snapshot Nexus Repository </name>
 	      <url>http://13.235.45.51:8081/repository/icicbank-snapshot/</url>
 	    </snapshotRepository>
 	    
